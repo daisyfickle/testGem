@@ -1,0 +1,5 @@
+{
+  "name": "FlowAgent Studio",
+  "description": "A visual drag-and-drop agent builder powered by Gemini. Create complex LLM workflows by connecting specialized agents with custom personas.",
+  "requestFramePermissions": []
+}
